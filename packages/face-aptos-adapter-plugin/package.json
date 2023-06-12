@@ -1,5 +1,5 @@
 {
-  "name": "face-aptos-adapter-plugin",
+  "name": "@haechi-labs/face-aptos-adapter-plugin",
   "version": "0.0.1",
   "description": "Face Wallet Aptos Adapter plugin to use with Aptos Wallet Adapter",
   "author": "Aptos",
