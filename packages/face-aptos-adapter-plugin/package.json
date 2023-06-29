@@ -33,7 +33,9 @@
   "peerDependencies": {
     "@aptos-labs/wallet-adapter-core": "^2.2.0",
     "@haechi-labs/face-sdk": "^1.10.4",
-    "@haechi-labs/face-types": "^1.10.4",
+    "@haechi-labs/face-types": "^1.10.4"
+  },
+  "dependencies": {
     "aptos": "^1.9.1"
   },
   "files": [

@@ -52,6 +52,10 @@ importers:
         version: 5.1.3
 
   packages/face-aptos-adapter-plugin:
+    dependencies:
+      aptos:
+        specifier: ^1.9.1
+        version: 1.9.1
     devDependencies:
       '@aptos-labs/wallet-adapter-core':
         specifier: ^2.2.0
@@ -65,9 +69,6 @@ importers:
       '@types/jest':
         specifier: ^29.2.3
         version: 29.2.3
-      aptos:
-        specifier: ^1.9.1
-        version: 1.9.1
       jest:
         specifier: ^29.3.1
         version: 29.3.1
